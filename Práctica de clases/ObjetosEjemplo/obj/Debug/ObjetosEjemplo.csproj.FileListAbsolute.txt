@@ -1,0 +1,7 @@
+C:\Users\Florentino Acosta\source\repos\ObjetosEjemplo\ObjetosEjemplo\bin\Debug\ObjetosEjemplo.exe.config
+C:\Users\Florentino Acosta\source\repos\ObjetosEjemplo\ObjetosEjemplo\bin\Debug\ObjetosEjemplo.exe
+C:\Users\Florentino Acosta\source\repos\ObjetosEjemplo\ObjetosEjemplo\bin\Debug\ObjetosEjemplo.pdb
+C:\Users\Florentino Acosta\source\repos\ObjetosEjemplo\ObjetosEjemplo\obj\Debug\ObjetosEjemplo.csprojAssemblyReference.cache
+C:\Users\Florentino Acosta\source\repos\ObjetosEjemplo\ObjetosEjemplo\obj\Debug\ObjetosEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Florentino Acosta\source\repos\ObjetosEjemplo\ObjetosEjemplo\obj\Debug\ObjetosEjemplo.exe
+C:\Users\Florentino Acosta\source\repos\ObjetosEjemplo\ObjetosEjemplo\obj\Debug\ObjetosEjemplo.pdb

@@ -1,0 +1,39 @@
+C:\Users\Alumnos\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Alumnos\source\repos\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Alumnos\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Alumnos\source\repos\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\Alumnos\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Alumnos\source\repos\Practice\Practice\obj\Debug\Practice.pdb
+F:\docs\C#\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+F:\docs\C#\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+F:\docs\C#\Practice\Practice\obj\Debug\Practice.exe
+F:\docs\C#\Practice\Practice\obj\Debug\Practice.pdb
+E:\docs\C#\Practice\Practice\bin\Debug\Practice.exe.config
+E:\docs\C#\Practice\Practice\bin\Debug\Practice.exe
+E:\docs\C#\Practice\Practice\bin\Debug\Practice.pdb
+E:\docs\C#\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+E:\docs\C#\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+E:\docs\C#\Practice\Practice\obj\Debug\Practice.exe
+E:\docs\C#\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\josem\Documents\VS 2019\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\josem\Documents\VS 2019\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\josem\Documents\VS 2019\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\josem\Documents\VS 2019\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\josem\Documents\VS 2019\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\josem\Documents\VS 2019\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\josem\Documents\VS 2019\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\migue\Desktop\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\migue\Desktop\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\migue\Desktop\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\migue\Desktop\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\migue\Desktop\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\migue\Desktop\Practice\Practice\obj\Debug\Practice.pdb
+G:\Practice\Practice\bin\Debug\Practice.exe.config
+G:\Practice\Practice\bin\Debug\Practice.exe
+G:\Practice\Practice\bin\Debug\Practice.pdb
+G:\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+G:\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+G:\Practice\Practice\obj\Debug\Practice.exe
+G:\Practice\Practice\obj\Debug\Practice.pdb

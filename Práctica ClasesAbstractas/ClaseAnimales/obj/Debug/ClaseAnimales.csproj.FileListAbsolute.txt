@@ -1,0 +1,7 @@
+C:\Users\Florentino Acosta\source\repos\ClaseAnimales\ClaseAnimales\bin\Debug\ClaseAnimales.exe.config
+C:\Users\Florentino Acosta\source\repos\ClaseAnimales\ClaseAnimales\bin\Debug\ClaseAnimales.exe
+C:\Users\Florentino Acosta\source\repos\ClaseAnimales\ClaseAnimales\bin\Debug\ClaseAnimales.pdb
+C:\Users\Florentino Acosta\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\ClaseAnimales.csprojAssemblyReference.cache
+C:\Users\Florentino Acosta\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\ClaseAnimales.csproj.CoreCompileInputs.cache
+C:\Users\Florentino Acosta\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\ClaseAnimales.exe
+C:\Users\Florentino Acosta\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\ClaseAnimales.pdb
